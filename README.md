@@ -11,15 +11,15 @@ From neighborhoods, to classes, to group projects or just circles of friends, Ba
 User Manual
 ----------------------
 
-A detailed guide about how to use the site can be found at:
+A detailed guide about how to use the site can be found at [documentation/usermanual.txt](documentation/usermanual.txt)
 
 Design Process
 ------------
 
-An overview of how the site was built can be found at:
+An overview of how the site was built can be found at [documentation/documentation.txt](documentation/documentation.txt)
 
 YouTube Videos:
 --------------------
 
-1. Introductory video:
-2. Interview at CS50 Fair: 
+1. Introductory video: [https://www.youtube.com/watch?v=XMbYkMUzej4](https://www.youtube.com/watch?v=XMbYkMUzej4)
+2. Interview at CS50 Fair: [https://www.youtube.com/edit?o=U&video_id=1GSGSVuBApw](https://www.youtube.com/edit?o=U&video_id=1GSGSVuBApw)
