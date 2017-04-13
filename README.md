@@ -18,7 +18,7 @@ Design Process
 
 An overview of how the site was built can be found at [documentation/documentation.txt](documentation/documentation.txt)
 
-YouTube Videos:
+YouTube Videos
 --------------------
 
 1. Introductory video: [https://www.youtube.com/watch?v=XMbYkMUzej4](https://www.youtube.com/watch?v=XMbYkMUzej4)
