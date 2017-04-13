@@ -16,7 +16,7 @@ A detailed guide about how to use the site can be found at [documentation/userma
 Design Process
 ------------
 
-An overview of how the site was built can be found at [documentation/documentation.txt](documentation/documentation.txt)
+An overview of how the site was built can be found at [documentation/designprocess.txt](documentation/designprocess.txt)
 
 YouTube Videos
 --------------------
