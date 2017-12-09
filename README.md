@@ -22,4 +22,4 @@ YouTube Videos
 --------------------
 
 1. Introductory video: [https://www.youtube.com/watch?v=XMbYkMUzej4](https://www.youtube.com/watch?v=XMbYkMUzej4)
-2. Interview at CS50 Fair: [https://www.youtube.com/edit?o=U&video_id=1GSGSVuBApw](https://www.youtube.com/edit?o=U&video_id=1GSGSVuBApw)
+2. Interview at CS50 Fair: [https://www.youtube.com/watch?v=1GSGSVuBApw](https://www.youtube.com/watch?v=1GSGSVuBApw)
