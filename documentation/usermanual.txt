@@ -22,7 +22,7 @@ RUNNING THE PROJECT
 - If on Cloud9, navigate to webserver URL
 - If deployed locally, navigate to http://0.0.0.0:8080/
 
-If you would like to use our implementation, navigate to http://banterboard.me
+If you would like to use our implementation, navigate to http://banterboard.herokuapp.com
 
 
 THE HOMEPAGE
